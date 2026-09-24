@@ -1,24 +1,15 @@
-### Hi, I'm Gavin 👋
+<h1 align="center">Gavin Zeng</h1>
 
-I build data and AI products end to end, from framing the problem and gathering the data through modeling, the product itself, and shipping it. I did my M.S. in Analytics at UC Berkeley (2026) and my B.S. in Data Science, minor in Business Studies at NYU. I'm based in CA.
+<p align="center">
+  <strong>I decompose complicated problems and build solutions with AI.</strong>
+</p>
 
-**Currently:** open to roles in investing, AI/data science, and founder's-office / BizOps.
+<p align="center">
+  M.S. Analytics @ UC Berkeley · B.A. Data Science @ NYU
+</p>
 
----
-
-#### 🔨 Some things I've built
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Marker**](https://github.com/realGavin/marker) | "Letterboxd for golf courses": a map, a personal log, bucket lists, and an AI trip planner grounded in real course data. I built it solo over 8 milestones: an ETL pipeline seeded 12,640 US courses, map tiles are served from R2 at flat cost, and the planner has an eval harness (48/48). The engine is niche-agnostic and golf is its first skin. | Expo · TypeScript · Supabase (PostGIS, RLS) · MapLibre · Claude |
-| [**due-diligence-agent**](https://github.com/realGavin/due-diligence-agent) | An AI research team that reads a 10-K, researches open questions on the web, and writes an investment memo, with every number checked in code against its source. A red-team agent attacks the thesis and a code-computed scorecard sets the verdict. Planted-error eval: 98% of corrupted numbers caught. Example memos on NVIDIA, Costco, Arista, Nike and Beyond Meat. | Python · SEC EDGAR · LLM agents · web search |
-| **emergency-response-placement** *(coming)* | Where should emergency response centers go? Accident-risk forecasting (LightGBM) feeds a facility-location optimization that cut simulated average response time from **33.4 to 26.1 min**. Includes a dashboard. | Python · LightGBM · optimization |
-| **PaTH attention** *(coming)* | Implemented PaTH (data-dependent position encoding) attention in PyTorch. It reduced perplexity by **37% at 4× the training context length**. | PyTorch |
-| **PJM price-spike risk** *(coming)* | Forecast electricity price spikes in the PJM market and hedged against them, cutting CVaR by **48–58%** in 2022. | Python · time series · risk |
-
-#### 🏗️ Ventures
-- **Manmade**: pre-seed robotics venture (co-founder, 2026).
-- **Reezen / [DecisionWeave](https://github.com/coindef/decisionweave)**: an agentic decision-engineering system (co-founder; product & design).
-
-#### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/gavin-shuo-zeng/) · shuozeng21@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/gavin-shuo-zeng">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:shuozeng21@gmail.com">Email</a>
+</p>
