@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  M.S. Analytics @ UC Berkeley &nbsp; &nbsp; B.A. Data Science @ NYU
+  M.S. Analytics @ UC Berkeley &nbsp; &nbsp; &nbsp; B.A. Data Science @ NYU
 </p>
 
 <p align="center">
