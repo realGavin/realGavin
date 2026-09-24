@@ -7,7 +7,7 @@
 <p align="center">
   M.S. Analytics @ UC Berkeley &nbsp; &nbsp; &nbsp; B.A. Data Science @ NYU
   <br><br>
-  <a href="https://www.linkedin.com/in/gavin-shuo-zeng"><img height="32" src="https://img.shields.io/badge/LINKEDIN-172033?style=for-the-badge&logo=linkedin&logoColor=F5F5F4" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/gavin-shuo-zeng"><img height="32" src="assets/linkedin-badge.png" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:shuozeng21@gmail.com"><img height="32" src="https://img.shields.io/badge/EMAIL-172033?style=for-the-badge&logo=gmail&logoColor=F5F5F4" alt="Email"></a>
+  <a href="mailto:shuozeng21@gmail.com"><img height="32" src="assets/email-badge.png" alt="Email"></a>
 </p>
