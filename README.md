@@ -1,4 +1,4 @@
-<h1 align="center">Gavin Zeng</h1>
+<h2 align="center">Gavin Zeng</h2>
 
 <p align="center">
   <strong>I decompose complicated problems and build better solutions with AI.</strong>
@@ -6,10 +6,8 @@
 
 <p align="center">
   M.S. Analytics @ UC Berkeley &nbsp; &nbsp; &nbsp; B.A. Data Science @ NYU
-</p>
-
-<p align="center">
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-27272A?style=for-the-badge&logo=readme&logoColor=F4F4F5" alt="Resume"></a>
-  <a href="https://www.linkedin.com/in/gavin-shuo-zeng"><img src="https://img.shields.io/badge/LINKEDIN-334155?style=for-the-badge&logo=linkedin&logoColor=F8FAFC" alt="LinkedIn"></a>
-  <a href="mailto:shuozeng21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-27272A?style=for-the-badge&logo=gmail&logoColor=F4F4F5" alt="Email"></a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/gavin-shuo-zeng"><img height="32" src="https://img.shields.io/badge/LINKEDIN-172033?style=for-the-badge&logo=linkedin&logoColor=F5F5F4" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:shuozeng21@gmail.com"><img height="32" src="https://img.shields.io/badge/EMAIL-172033?style=for-the-badge&logo=gmail&logoColor=F5F5F4" alt="Email"></a>
 </p>
