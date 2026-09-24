@@ -1,12 +1,12 @@
 ### Hi, I'm Gavin 👋
 
-I build data and AI products end to end, from framing the problem and gathering the data through modeling, the product itself, and shipping it. I did my M.S. in Analytics at UC Berkeley (2026) and my B.S. in Data Science & Business Studies at NYU. I'm based in Irvine, CA.
+I build data and AI products end to end, from framing the problem and gathering the data through modeling, the product itself, and shipping it. I did my M.S. in Analytics at UC Berkeley (2026) and my B.S. in Data Science, minor in Business Studies at NYU. I'm based in CA.
 
-**Currently:** open to roles in investing, AI/data science, and founder's-office / BizOps, in Orange County or remote.
+**Currently:** open to roles in investing, AI/data science, and founder's-office / BizOps.
 
 ---
 
-#### 🔨 Things I've built
+#### 🔨 Some things I've built
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -21,4 +21,4 @@ I build data and AI products end to end, from framing the problem and gathering 
 - **Reezen / [DecisionWeave](https://github.com/coindef/decisionweave)**: an agentic decision-engineering system (co-founder; product & design).
 
 #### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/REPLACE) · shuozeng21@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gavin-shuo-zeng/) · shuozeng21@gmail.com
