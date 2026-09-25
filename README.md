@@ -1,7 +1,7 @@
 <h2 align="center">Gavin Zeng</h2>
 
 <p align="center">
-  <strong>I decompose complicated problems and build better solutions with AI.</strong>
+  <strong>I break down complex problems, build intelligent systems, and turn analysis into decisions.</strong>
 </p>
 
 <p align="center">
